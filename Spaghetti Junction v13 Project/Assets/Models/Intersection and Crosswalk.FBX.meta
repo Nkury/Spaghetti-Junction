@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 206a3d74b2624453d869ecf32996b120
+timeCreated: 1456791773
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: road_corner_mesh
+    100004: road_corner_mesh001
+    100006: road_corner_mesh002
+    100008: road_corner_mesh003
+    100010: road_crossing_mesh002
+    100012: road_crossing_mesh003
+    100014: road_crossing_mesh004
+    100016: road_crossing_mesh005
+    100018: road_crossing_mesh006
+    100020: road_crossing_mesh007
+    100022: road_crossing_mesh008
+    100024: road_crossing_mesh1
+    400000: //RootNode
+    400002: road_corner_mesh
+    400004: road_corner_mesh001
+    400006: road_corner_mesh002
+    400008: road_corner_mesh003
+    400010: road_crossing_mesh002
+    400012: road_crossing_mesh003
+    400014: road_crossing_mesh004
+    400016: road_crossing_mesh005
+    400018: road_crossing_mesh006
+    400020: road_crossing_mesh007
+    400022: road_crossing_mesh008
+    400024: road_crossing_mesh1
+    2300000: road_corner_mesh
+    2300002: road_corner_mesh001
+    2300004: road_corner_mesh002
+    2300006: road_corner_mesh003
+    2300008: road_crossing_mesh002
+    2300010: road_crossing_mesh003
+    2300012: road_crossing_mesh004
+    2300014: road_crossing_mesh005
+    2300016: road_crossing_mesh006
+    2300018: road_crossing_mesh007
+    2300020: road_crossing_mesh008
+    2300022: road_crossing_mesh1
+    3300000: road_corner_mesh
+    3300002: road_corner_mesh001
+    3300004: road_corner_mesh002
+    3300006: road_corner_mesh003
+    3300008: road_crossing_mesh002
+    3300010: road_crossing_mesh003
+    3300012: road_crossing_mesh004
+    3300014: road_crossing_mesh005
+    3300016: road_crossing_mesh006
+    3300018: road_crossing_mesh007
+    3300020: road_crossing_mesh008
+    3300022: road_crossing_mesh1
+    4300000: road_crossing_mesh1
+    4300002: road_corner_mesh
+    4300004: road_corner_mesh001
+    4300006: road_corner_mesh002
+    4300008: road_corner_mesh003
+    4300010: road_crossing_mesh002
+    4300012: road_crossing_mesh003
+    4300014: road_crossing_mesh004
+    4300016: road_crossing_mesh005
+    4300018: road_crossing_mesh006
+    4300020: road_crossing_mesh007
+    4300022: road_crossing_mesh008
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 39.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

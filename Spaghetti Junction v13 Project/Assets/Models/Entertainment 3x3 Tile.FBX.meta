@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 86161b19162c445dfb491072f9bbd922
+timeCreated: 1456872018
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Building_Cinema
+    100002: Building_Shop_03
+    100004: Building_StripClub
+    100006: cop_mesh
+    100008: dumpster_mesh
+    100010: Dumpster_open
+    100012: Dumpster_open001
+    100014: //RootNode
+    100016: fence_long_mesh
+    100018: fence_long_mesh001
+    100020: fence_long_mesh002
+    100022: fence_long_mesh003
+    100024: ground_Asphalt
+    100026: ground_Asphalt001
+    100028: ground_Asphalt002
+    100030: ground_Asphalt003
+    100032: ground_Asphalt004
+    100034: ground_Asphalt005
+    100036: ground_Asphalt006
+    100038: ground_Asphalt007
+    100040: ground_Asphalt008
+    100042: office_stepped_mesh
+    100044: store_corner_mesh
+    100046: ute_mesh
+    400000: Building_Cinema
+    400002: Building_Shop_03
+    400004: Building_StripClub
+    400006: cop_mesh
+    400008: dumpster_mesh
+    400010: Dumpster_open
+    400012: Dumpster_open001
+    400014: //RootNode
+    400016: fence_long_mesh
+    400018: fence_long_mesh001
+    400020: fence_long_mesh002
+    400022: fence_long_mesh003
+    400024: ground_Asphalt
+    400026: ground_Asphalt001
+    400028: ground_Asphalt002
+    400030: ground_Asphalt003
+    400032: ground_Asphalt004
+    400034: ground_Asphalt005
+    400036: ground_Asphalt006
+    400038: ground_Asphalt007
+    400040: ground_Asphalt008
+    400042: office_stepped_mesh
+    400044: store_corner_mesh
+    400046: ute_mesh
+    2300000: Building_Cinema
+    2300002: Building_Shop_03
+    2300004: Building_StripClub
+    2300006: cop_mesh
+    2300008: dumpster_mesh
+    2300010: Dumpster_open
+    2300012: Dumpster_open001
+    2300014: fence_long_mesh
+    2300016: fence_long_mesh001
+    2300018: fence_long_mesh002
+    2300020: fence_long_mesh003
+    2300022: ground_Asphalt
+    2300024: ground_Asphalt001
+    2300026: ground_Asphalt002
+    2300028: ground_Asphalt003
+    2300030: ground_Asphalt004
+    2300032: ground_Asphalt005
+    2300034: ground_Asphalt006
+    2300036: ground_Asphalt007
+    2300038: ground_Asphalt008
+    2300040: office_stepped_mesh
+    2300042: store_corner_mesh
+    2300044: ute_mesh
+    3300000: Building_Cinema
+    3300002: Building_Shop_03
+    3300004: Building_StripClub
+    3300006: cop_mesh
+    3300008: dumpster_mesh
+    3300010: Dumpster_open
+    3300012: Dumpster_open001
+    3300014: fence_long_mesh
+    3300016: fence_long_mesh001
+    3300018: fence_long_mesh002
+    3300020: fence_long_mesh003
+    3300022: ground_Asphalt
+    3300024: ground_Asphalt001
+    3300026: ground_Asphalt002
+    3300028: ground_Asphalt003
+    3300030: ground_Asphalt004
+    3300032: ground_Asphalt005
+    3300034: ground_Asphalt006
+    3300036: ground_Asphalt007
+    3300038: ground_Asphalt008
+    3300040: office_stepped_mesh
+    3300042: store_corner_mesh
+    3300044: ute_mesh
+    4300000: ground_Asphalt
+    4300002: ground_Asphalt001
+    4300004: ground_Asphalt002
+    4300006: ground_Asphalt003
+    4300008: ground_Asphalt004
+    4300010: ground_Asphalt005
+    4300012: ground_Asphalt006
+    4300014: ground_Asphalt007
+    4300016: ground_Asphalt008
+    4300018: Building_Cinema
+    4300020: Building_StripClub
+    4300022: office_stepped_mesh
+    4300024: Building_Shop_03
+    4300026: store_corner_mesh
+    4300028: fence_long_mesh
+    4300030: fence_long_mesh001
+    4300032: fence_long_mesh002
+    4300034: fence_long_mesh003
+    4300036: Dumpster_open
+    4300038: dumpster_mesh
+    4300040: cop_mesh
+    4300042: Dumpster_open001
+    4300044: ute_mesh
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
